@@ -1,0 +1,25 @@
+# Freelance Client OS
+
+> Freelance Client OS is a $39 one-time system for solo freelancers: a Notion template plus a matching Excel workbook that runs the whole freelance business — clients, project pipeline, invoice tracker, follow-up queue, and money dashboard — in 15 minutes a week. No subscription. Delivered by email within minutes of payment.
+
+## Product
+
+- [Freelance Client OS — landing page](https://freelance.beeseenbyai.com/): what it is, what is inside, and how the 15-minute weekly routine works.
+- [Buy Freelance Client OS — $39, one time (Stripe checkout)](https://buy.stripe.com/7sYbJ10hEcmkblj5Xx0gw05): secure checkout via Stripe; delivery by email with the Excel workbook and the Notion one-click duplicate link.
+
+## Blog
+
+- [Freelance Invoice Template: Stop Chasing Payments by Hand](https://freelance.beeseenbyai.com/blog/freelance-invoice-template/): A freelance invoice template only works if someone chases it. Here's the invoice tracker setup solo freelancers use to stop losing money to overdue invoices — no CRM required.
+- [Notion Template for Freelancers: Clients, Pipeline, Invoices in One Place](https://freelance.beeseenbyai.com/blog/notion-template-for-freelancers/): A Notion template for freelancers should hold your whole business, not just a task list. Here's the five-table setup — clients, pipeline, invoices, follow-ups, money dashboard — that runs a solo practice in 15 minutes a week.
+- [How Freelancers Track Overdue Invoices Without a CRM](https://freelance.beeseenbyai.com/blog/track-overdue-invoices-without-crm/): You don't need a CRM to collect what you're owed. Here's how freelancers track overdue invoices with a simple tracker and a daily chase routine — and get paid faster without new software.
+- [How to Remind Clients to Pay: Freelance Invoice Reminders That Work](https://freelance.beeseenbyai.com/blog/freelance-invoice-reminder/): A freelance invoice reminder is not nagging — it's a system. Here's the exact schedule, wording, and tracker solo freelancers use to get paid on time without damaging the relationship.
+- [Freelance Client Onboarding Checklist: Start Every Project Right](https://freelance.beeseenbyai.com/blog/freelance-client-onboarding-checklist/): A freelance client onboarding checklist turns a handshake deal into a working relationship. Scope, payment terms, access, and communication — the ten items to confirm before any work starts.
+- [Best Notion Templates for Freelancers in 2026](https://freelance.beeseenbyai.com/blog/best-notion-templates-for-freelancers-2026/): The best Notion templates for freelancers in 2026 are the ones you actually open every day. Here's what to look for — and the five tables that matter — before you pay for any template.
+- [Freelance Payment Terms: Net 30, Deposits, and Late Fees Explained](https://freelance.beeseenbyai.com/blog/freelance-payment-terms/): Freelance payment terms decide whether you get paid in two weeks or two months. Net 30, deposits, late fees, and milestone payments — what each one means and which to use.
+- [How to Price Freelance Work: Hourly vs Project Rates](https://freelance.beeseenbyai.com/blog/how-to-price-freelance-work/): How to price freelance work without guessing: hourly vs project rates, what each one is good for, and a simple formula to set a rate that covers your costs and your time.
+- [Freelance Tax Tracking Spreadsheet: Keep Every Dollar Accounted For](https://freelance.beeseenbyai.com/blog/freelance-tax-tracking-spreadsheet/): A freelance tax tracking spreadsheet is the difference between a calm tax season and a panic. Income, expenses, quarterly estimates, and deductions — the columns you need and the routine that keeps them current.
+- [Client Follow-Up Email Templates for Freelancers](https://freelance.beeseenbyai.com/blog/client-follow-up-email-templates/): Client follow-up email templates for freelancers: the five emails every solo freelancer sends — after a proposal, after delivery, for overdue invoices, for quiet clients, and for repeat work. Copy, fill in, send.
+
+## About
+
+- [SeenByAI](https://beeseenbyai.com): the maker of Freelance Client OS. Questions: hello@beeseenbyai.com.
