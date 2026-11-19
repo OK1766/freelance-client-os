@@ -9,7 +9,7 @@ This file contains the full text of the Freelance Client OS landing page and its
 SeenByAI · Freelance Client OS 
 Stop losing money to scattered admin. 
 One system for your whole freelance business — who owes you what, which invoice is overdue, who to follow up, and what you earned this month. A Notion template plus a matching Excel workbook. Set it up in an afternoon, run it in 15 minutes a week. 
-Get Freelance Client OS — $39 One-time payment. Instant delivery by email. Works with a free Notion account. 
+Get Freelance Client OS — $39 One-time payment. Instant download page right after checkout, with the same links also emailed. Works with a free Notion account. 
 
 The problem it solves 
 Solo freelancers don’t lose money because the work is bad. They lose it because the admin is scattered: client details in one place, project status in your head, invoices in a spreadsheet you haven’t opened in weeks, follow-ups you meant to send and didn’t. An overdue invoice you forgot to chase is money you already earned and never collected. 
@@ -32,14 +32,14 @@ One list, sorted by next-action date. Work it top to bottom each morning. No mor
 Total owed, overdue right now, due this week, and what you have been paid this month — all live, no manual counting. 
 
 What you get 
-Notion template — one-click duplicate link for your own Notion (free plan). Click Duplicate and it’s yours in seconds. 
+Notion import files — a zip with four CSV tables and a README; import them into your own Notion workspace (free plan) to build the same five databases. 
 Excel workbook — the same five tables as a spreadsheet, with the same formulas, for the days you’d rather work in Excel (or for a non-Notion backup). 
 Start-here guide — how to set it up and the 15-minute weekly routine that keeps it working. 
-Delivered by email within minutes of payment. No subscription, no course, no community upsell — just the system. 
+Right after payment: a private download page with signed links to both files, plus the same links in your inbox within minutes. No subscription, no course, no community upsell — just the system. 
 
 Freelance Client OS 
 $39 
-one-time · Notion template + Excel workbook · instant delivery 
+one-time · Notion import files + Excel workbook · instant download 
 Buy now — $39 Secure checkout via Stripe. 
 
 Questions 
@@ -48,7 +48,7 @@ No. The template works on Notion’s free plan.
 What if I don’t use Notion? 
 The Excel workbook is the same system as a spreadsheet — you can run the whole thing from it and never open Notion. 
 How do I get the files? 
-Right after payment you’ll get an email with the Excel workbook and the Notion one-click duplicate link. If it doesn’t arrive within 15 minutes, email hello@beeseenbyai.com . 
+Right after payment you land on a private download page with signed links to the Excel workbook and Notion import zip. The same links are also emailed to you. If the email doesn’t arrive within 15 minutes, check spam or email hello@beeseenbyai.com . 
 Is this a subscription? 
 No. One $39 payment, yours to keep and reuse.
 
@@ -110,7 +110,7 @@ Either way, the tool matters less than the structure. Five tables, one routine, 
 Want this system ready-made? Freelance Client OS is the Notion template + matching Excel workbook this article is built on: clients, pipeline, invoice tracker, follow-up queue, and money dashboard, $39 one-time. 
 Get Freelance Client OS — $39 
 
-If you'd rather start from a finished version than build it yourself, the template I use is available as a one-click Notion duplicate plus the matching Excel workbook. Either way, get your admin into one place. Scattered admin is a tax you pay in forgotten invoices and lost leads — and unlike real taxes, this one is entirely optional.
+If you'd rather start from a finished version than build it yourself, the package I sell includes Notion import files (CSV + README) plus the matching Excel workbook. Either way, get your admin into one place. Scattered admin is a tax you pay in forgotten invoices and lost leads — and unlike real taxes, this one is entirely optional.
 
 ---
 
