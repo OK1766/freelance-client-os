@@ -3,8 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Payment successful — Freelance Client OS</title>
-<meta name="description" content="Your Freelance Client OS is on its way by email.">
+<title>Downloads — Freelance Client OS</title>
+<meta name="description" content="Freelance Client OS downloads: private post-checkout page at beeseenbyai.com with signed links; the same links are also emailed.">
+<link rel="canonical" href="https://beeseenbyai.com/fco/success">
+<script>
+  (function () {
+    var q = window.location.search;
+    if (q && q.indexOf('session_id=') !== -1) {
+      window.location.replace('https://beeseenbyai.com/fco/success' + q);
+    }
+  })();
+</script>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.6; background: #fff; }
@@ -17,11 +26,13 @@
   section { padding: 36px 0; border-top: 1px solid #eee; }
   h2 { font-size: 26px; letter-spacing: -0.01em; margin-bottom: 14px; }
   p { margin-bottom: 12px; color: #333; }
-  ol { margin: 0 0 12px 22px; }
+  ul { margin: 0 0 12px 22px; }
   li { margin-bottom: 8px; }
   li b { color: #111; }
   footer { border-top: 1px solid #eee; padding: 28px 0 48px; color: #777; font-size: 14px; }
   footer a { color: #1F3864; }
+  .btn { display: inline-block; background: #1F3864; color: #fff; font-weight: 700; font-size: 16px; padding: 12px 24px; border-radius: 8px; text-decoration: none; }
+  .btn:hover { background: #16294d; }
 </style>
 </head>
 <body>
@@ -30,28 +41,39 @@
 <header><div class="brand">SeenByAI · Freelance Client OS</div></header>
 
 <div class="hero">
-  <h1>Payment successful — check your inbox.</h1>
-  <p class="lede">Your Freelance Client OS is on its way. Within a few minutes you&rsquo;ll get an email from <b>hello@beeseenbyai.com</b> with everything attached.</p>
+  <h1>Your files are on the download page</h1>
+  <p class="lede">After Stripe checkout you should land on a <strong>private download page</strong> at <a href="https://beeseenbyai.com/fco/success">beeseenbyai.com</a> with signed, expiring links to the Excel workbook and Notion import zip. The same links are also emailed to you from <b>hello@beeseenbyai.com</b> — not as attachments.</p>
 </div>
 
 <section>
-  <h2>What&rsquo;s in the email</h2>
-  <ol>
-    <li><b>Excel workbook</b> (Freelance-Client-OS.xlsx) — the full system as a spreadsheet. Open it and start; the first sheet explains the 15-minute weekly routine.</li>
-    <li><b>Notion import files</b> (Freelance-Client-OS-Notion-Import.zip) — the same five tables for Notion. Unzip, then in Notion create a page called &ldquo;Freelance Client OS&rdquo; and import each CSV as a database (Import &rarr; CSV): 1-Clients, 2-Projects, 3-Invoices, 4-Follow-ups. The README inside the zip has the full steps, including the Days-Overdue formula and how to link the databases.</li>
-  </ol>
-  <p>A one-click Notion duplicate link is coming soon — if you&rsquo;d like it sent to you when it&rsquo;s ready, just reply to the delivery email.</p>
+  <h2>What you get</h2>
+  <ul>
+    <li><b>Excel workbook</b> — Start Here, Dashboard, Clients, Projects, Invoices (with days-overdue formula), and Follow-ups.</li>
+    <li><b>Notion import zip</b> — four CSV tables plus a README; import them into Notion to recreate the same databases.</li>
+  </ul>
+  <p id="redirect-note" hidden>If you completed checkout moments ago, <a class="btn" id="continue-download" href="https://beeseenbyai.com/fco/success">Open your download page</a></p>
 </section>
 
 <section>
-  <h2>Didn&rsquo;t get the email?</h2>
-  <p>Give it up to 15 minutes, then check your spam or promotions folder — it comes from <b>hello@beeseenbyai.com</b>. Still nothing? Email <a href="mailto:hello@beeseenbyai.com">hello@beeseenbyai.com</a> with your order email and we&rsquo;ll resend it.</p>
+  <h2>Didn&rsquo;t get the email or download page?</h2>
+  <p>Check spam or promotions. Still stuck? Email <a href="mailto:hello@beeseenbyai.com">hello@beeseenbyai.com</a> with the address you used at checkout and we&rsquo;ll resend the links.</p>
 </section>
 
 <footer>
-  <p>Freelance Client OS by <a href="https://beeseenbyai.com">SeenByAI</a>. Questions: <a href="mailto:hello@beeseenbyai.com">hello@beeseenbyai.com</a>.</p>
+  <p>Freelance Client OS by <a href="https://beeseenbyai.com">SeenByAI</a>. <a href="https://freelance.beeseenbyai.com/">Back to the product page</a>.</p>
 </footer>
 
 </div>
+<script>
+  (function () {
+    var q = window.location.search;
+    var a = document.getElementById('continue-download');
+    if (a && q) {
+      a.href = 'https://beeseenbyai.com/fco/success' + q;
+      var note = document.getElementById('redirect-note');
+      if (note) note.hidden = false;
+    }
+  })();
+</script>
 </body>
 </html>

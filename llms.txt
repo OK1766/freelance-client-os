@@ -1,11 +1,11 @@
 # Freelance Client OS
 
-> Freelance Client OS is a $39 one-time system for solo freelancers: a Notion template plus a matching Excel workbook that runs the whole freelance business — clients, project pipeline, invoice tracker, follow-up queue, and money dashboard — in 15 minutes a week. No subscription. Delivered by email within minutes of payment.
+> Freelance Client OS is a $39 one-time system for solo freelancers: Notion import files (CSV + README) plus a matching Excel workbook that runs the whole freelance business — clients, project pipeline, invoice tracker, follow-up queue, and money dashboard — in 15 minutes a week. No subscription. Instant private download page after payment, with the same links also emailed.
 
 ## Product
 
 - [Freelance Client OS — landing page](https://freelance.beeseenbyai.com/): what it is, what is inside, and how the 15-minute weekly routine works.
-- [Buy Freelance Client OS — $39, one time (Stripe checkout)](https://buy.stripe.com/7sYbJ10hEcmkblj5Xx0gw05): secure checkout via Stripe; delivery by email with the Excel workbook and the Notion one-click duplicate link.
+- [Buy Freelance Client OS — $39, one time (Stripe checkout)](https://buy.stripe.com/7sYbJ10hEcmkblj5Xx0gw05): secure checkout via Stripe; instant download page at beeseenbyai.com with signed links to the Excel workbook and Notion import zip (CSV + README), plus the same links emailed.
 
 ## Blog
 
