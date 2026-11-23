@@ -58,7 +58,8 @@
   .magnet form { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
   .magnet input[type="email"] { flex: 1; min-width: 240px; font-size: 16px; padding: 13px 16px; border: 1px solid #c9d4e6; border-radius: 8px; font-family: inherit; }
   .magnet button { background: #1F3864; color: #fff; font-weight: 700; font-size: 16px; padding: 13px 24px; border: 0; border-radius: 8px; cursor: pointer; font-family: inherit; }
-  .magnet button:hover { background: #16294d; }
+  .magnet .dl { display: inline-block; background: #1F3864; color: #fff; font-weight: 700; font-size: 16px; padding: 13px 24px; border-radius: 8px; text-decoration: none; }
+  .magnet .dl:hover { background: #16294d; }
   .magnet .fine { font-size: 14px; color: #666; margin-top: 12px; margin-bottom: 0; }
 </style>
 </head>
@@ -77,16 +78,9 @@
 <section id="free-tracker">
   <div class="magnet">
     <h2>Get the free Invoice Tracker</h2>
-    <p>Try the system before you buy it. The free Invoice Tracker is one sheet from Freelance Client OS: it tracks every invoice, flags the overdue ones automatically, and tells you exactly how much you are owed right now. Enter your email and we will send you the free Invoice Tracker (.xlsx).</p>
-    <form action="https://formsubmit.co/leads@beeseenbyai.com" method="POST">
-      <input type="hidden" name="_subject" value="New lead magnet signup — Freelance Client OS">
-      <input type="hidden" name="_template" value="table">
-      <input type="hidden" name="_captcha" value="false">
-      <input type="hidden" name="_next" value="https://freelance.beeseenbyai.com/lead-magnet/Invoice-Tracker-How-To-Use.html">
-      <input type="email" name="email" placeholder="Your email address" required>
-      <button type="submit">Send me the free Invoice Tracker</button>
-    </form>
-    <p class="fine">Free sample, no subscription. Your email is only used to send you the tracker — no marketing emails.</p>
+    <p>Try the system before you buy it. The free Invoice Tracker is one sheet from Freelance Client OS: it tracks every invoice, flags the overdue ones automatically, and tells you exactly how much you are owed right now. Download the .xlsx directly &mdash; no email address needed.</p>
+    <p><a class="dl" href="/lead-magnet/Invoice-Tracker-Free.xlsx" download>Download the free Invoice Tracker (.xlsx)</a> &nbsp;&middot;&nbsp; <a href="/lead-magnet/Invoice-Tracker-How-To-Use.html">How to use it</a></p>
+    <p class="fine">Free sample, no subscription, no sign-up.</p>
   </div>
 </section>
 
